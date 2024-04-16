@@ -19,10 +19,10 @@ As the project advances I will update this README file.
 - `.vscode`: Instructions to VSC in a .json file.
 - `docker`: It contains the Dockerfile and docker-compose.yml file for running on a docker virtual container.
 - `src`: Source folder. It contains most of the code.
-- `components`: Components folder. Currently empty.
-- `lib`: Library folder. Currently empty
 - `pages:`: Contains the .tsx files of the website pages.
 - `styles`: Contains the .css files for styles.
+- `components`: Components folder. Currently empty.
+- `lib`: Library folder. Currently empty
 - `test`: Folder for test purposes. Currently empty.
 
 ## More resources
