@@ -24,8 +24,5 @@ As the project advances I will update this README file.
 
 ## More resources
 
-Point interested users to any related literature and/or documentation.
-
-## About
-
-Explain who has contributed to the repository. You can say it has been part of a class you've taken at Tilburg University.
+Link to Payload CMS website docs: https://payloadcms.com/docs/getting-started/what-is-payload
+Link to my Payload GitHub repo: https://github.com/dysk0zero/payload-cms
