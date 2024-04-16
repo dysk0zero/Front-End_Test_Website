@@ -17,7 +17,7 @@ const Home: React.FC = () => {
                 </h1>
                 <p className={styles.description}>
                     Yay wassup maniggis!
-                    <code className={styles.code}>src/pages/index.tsx</code>
+                    <code className={styles.code}>src/pages/index.tsx This is code!!</code>
                 </p>
             </main>
             <footer className={styles.footer}>
