@@ -21,9 +21,6 @@ As the project advances I will update this README file.
 - `src`: Source folder. It contains most of the code.
 - `pages:`: Contains the .tsx files of the website pages.
 - `styles`: Contains the .css files for styles.
-- `components`: Components folder. Currently empty.
-- `lib`: Library folder. Currently empty
-- `test`: Folder for test purposes. Currently empty.
 
 ## More resources
 
