@@ -1,0 +1,32 @@
+/* styles/Home.module.css */
+
+.container {
+    padding: 0 2rem;
+}
+
+.main {
+    min-height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: baseline;
+}
+
+.title {
+    margin: 0;
+    line-height: 1.15;
+    font-size: 4rem;
+}
+
+.description {
+    text-align: center;
+    line-height: 1.15;
+    font-size: 1.5rem;
+}
+
+.code {
+    background: #fafafa;
+    border-radius: 5px;
+    padding: 0.75rem;
+    font-family: monospace;
+}
