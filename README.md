@@ -16,25 +16,14 @@ As the project advances I will update this README file.
 
 ## Repository overview
 
-├──.vscode
-| ├── launch.json
-├── docker
-│   ├── docker-compose.yml
-│   └── Dockerfile
-├── public
-├── src
-│   ├── components
-│   ├── lib
-│   ├── pages
-│   ├── styles
-│   └── typings.d.ts
-├── test
-├── .gitignore
-├── next-env.d.ts
-├── package-lock.json
-├── package.json
-├── README.md
-└── tsconfig.json
+- `.vscode`: Instructions to VSC in a .json file.
+- `docker`: It contains the Dockerfile and docker-compose.yml file for running on a docker virtual container.
+- `src`: Source folder. It contains most of the code.
+- `components`: Components folder. Currently empty.
+- `lib`: Library folder. Currently empty
+- `pages:`: Contains the .tsx files of the website pages.
+- `styles`: Contains the .css files for styles.
+- `test`: Folder for test purposes. Currently empty.
 
 ## More resources
 
